@@ -5,6 +5,11 @@ links:
     description: GitHub is the world's largest software development platform.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: My Mix
+    description: My Mix collection.
+    website: https://alexanderphilippov.fun
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
 menu:
     main: 
         weight: 4
@@ -31,3 +36,16 @@ links:
 ```
 
 `image` field accepts both local and external images.
+
+```js
+for (int i = 0; i < 10; i++) {
+  alert("!!!!");
+}
+```
+
+`python`
+
+```python
+for i in range(10):
+  print(i)
+```
