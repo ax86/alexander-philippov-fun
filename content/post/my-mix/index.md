@@ -1,4 +1,5 @@
 ---
+draft: true
 title: My Mix
 description: Create beautiful interactive image gallery using Markdown
 date: 2024-04-26 00:00:00+0000
