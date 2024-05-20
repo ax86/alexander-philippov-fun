@@ -1,6 +1,7 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+draft: true
+title: Mix Collection by Alexander Philippov
+description: Mix Collection by Alexander Philippov
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
